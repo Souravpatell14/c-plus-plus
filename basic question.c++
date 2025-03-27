@@ -1,4 +1,4 @@
-(1) Write a program to take user input and print it.
+(1) A program to take user input and print it.
 
 #include <iostream>
 
@@ -14,7 +14,7 @@ int main() {
 }
 
 
-(2) Write a program to swap two numbers using a temporary variable.
+(2) A program to swap two numbers using a temporary variable.
 
 #include <iostream>
 using namespace std;
@@ -35,7 +35,7 @@ int main() {
 }
 
 
-(3)Write a program to swap two numbers without using a temporary variable.
+(3)A program to swap two numbers without using a temporary variable.
 
 
 #include <iostream>
@@ -60,7 +60,7 @@ int main() {
 }
 
 
-(4) Write a program to check whether a number is even or odd.
+(4) A program to check whether a number is even or odd.
 
 #include <iostream>
 using namespace std;
